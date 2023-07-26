@@ -36,7 +36,7 @@ Para executar o projeto, você precisará ter os seguintes requisitos instalados
 
 2. Instale as dependências necessárias usando o pip:
 
-3. Certifique-se de que seu servidor MongoDB esteja em execução localmente ou configure corretamente as configurações de conexão no arquivo `db.py`.
+3. Certifique-se de que seu servidor MongoDB esteja em execução localmente ou configure corretamente as configurações de conexão.
 
 4. Execute o programa principal para acessar o menu principal:
 
