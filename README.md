@@ -22,7 +22,6 @@ O sistema oferece as seguintes funcionalidades:
    - Listar todos os processos seletivos em andamento.
    - Iniciar novos processos seletivos.
    - Encerrar processos seletivos.
-   - Visualizar os candidatos inscritos em cada processo seletivo.
 
 ## Requisitos
 
